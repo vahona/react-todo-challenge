@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"style.e308ff8e.css","sourceRoot":"..","sourcesContent":[".lists {\r\n    display: flex;\r\n    list-style: none;\r\n\r\n}\r\n\r\n.list {\r\n   margin: 1rem;\r\n} \r\n\r\n.input {\r\n    margin-inline-start: 3rem;\r\n}\r\n\r\n"]}

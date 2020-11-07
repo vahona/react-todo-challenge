@@ -1,0 +1,17 @@
+.lists {
+    display: flex;
+    list-style: none;
+
+}
+
+.list {
+   margin: 1rem;
+} 
+
+.input {
+    margin-inline-start: 3rem;
+}
+
+
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */
